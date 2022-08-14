@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "React-Template",
   "version": "0.1.0",
   "private": true,
   "types": "./src/react-app-env.d.ts",
